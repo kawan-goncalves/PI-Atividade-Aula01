@@ -1,0 +1,28 @@
+.container
+{
+    background-color: #0aa5a5; 
+    width: 800px; 
+    height: 700px
+}
+.container2{
+    width: 69%; 
+    height: 30vh; 
+    background-color: rgb(1, 248, 14)
+}
+ .box{
+    background-color: #7e0909;
+    width: 20%; 
+    height: 80%
+}
+.box2{
+    width: 100vw; 
+    height: 45%; 
+    background-color: rgb(255, 0, 179)
+}
+p{
+    color: rgba(240, 234, 234, 0.945); 
+    background-color: rgb(1, 4, 5); 
+    font-size: 25px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold
+}
